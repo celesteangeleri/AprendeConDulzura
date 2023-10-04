@@ -1,0 +1,35 @@
+body{
+    background-color: #0d5b90;
+}
+.cursosContainer {
+    background-image: url(../../../assets/img/pexels-valeria-boltneva-7474291.jpg);
+    width: 70%;
+    height: 450px;
+    margin: 5% 15% 5%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+  }
+  .aboutUsContainer {
+    background-image: url(../../../assets/img/pexels-gary-barnes-6231611.jpg);
+    width: 70%;
+    height: 450px;
+    margin: 5% 15% 5%;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    
+  }
+  .title {
+    background-color: antiquewhite;
+    width: 70%;
+    height: 60px;
+    margin: 0rem 15%;
+    position: absolute;
+    bottom: 0;
+    cursor: pointer;
+  }
+  h1{
+    text-align: center;
+    margin-top: 1rem;
+  }
