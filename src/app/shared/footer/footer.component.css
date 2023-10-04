@@ -1,0 +1,19 @@
+.footerContainer{
+    display: flex;
+    justify-content: space-around;
+    background-color: aliceblue;
+}
+.liContainer{
+    display: flex;
+    list-style: none;
+    gap: 20rem;
+}
+    .item{
+        padding: 1rem;
+        cursor: pointer;
+    }
+    .logoButton{
+        padding: 1rem;
+        margin-left: 3rem;
+        cursor: pointer;
+    }
